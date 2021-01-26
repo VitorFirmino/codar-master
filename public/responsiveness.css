@@ -1,0 +1,320 @@
+@media screen and ( max-width: 1155px ) 
+  {  
+  .content {
+    margin-bottom: 6.4rem;
+  
+  }
+
+  .section ul {
+    margin-right: 6.6rem;
+  
+}
+
+  .section img {
+    width: 35%;
+    margin-left: 0;
+  }
+
+  .section-one {
+    margin-top: 1.6rem;
+  }
+} 
+
+@media screen and (max-width: 872px) {
+  .darkmodeLabel,
+  #darkmodeToggle {
+    display: none;
+    
+  }
+
+  .content-one h3 {
+    font-size: .9rem;
+  }
+
+  .content-one h1 {
+    font-size: 2.4rem;
+  }
+  
+  .section ul {
+      margin-right: 0;
+    
+  }
+
+  .section-one {
+    margin-left: 5.6rem;
+  }
+
+} 
+
+@media screen and (max-width: 714px) {
+  
+  .section {
+    display: flex;
+    align-items: center;
+    flex-direction: column-reverse;
+  }
+
+  .section ul {
+    margin-right: 12rem;
+  }
+
+  .section img {
+    width: 51%;
+
+    margin-right: 8.6rem;
+    margin-bottom: 4rem;
+  }
+} 
+
+@media screen and ( max-width: 600px) {
+  header {
+    width: 94vw;
+
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  header #logo {
+    margin-top: 6.3rem;
+  }
+
+  header #logo a {
+    font-size: 3.7rem;
+  }
+
+  nav ul {
+    display: flex;
+
+    margin-left: 6rem;
+  }
+
+  nav ul li a {
+    
+    display: flex;
+
+    margin-top: 21px;
+    margin-right: 1rem;
+
+    font-size: 1.50rem;
+  }
+
+
+  #login {
+    display: none;
+  }
+
+  .content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .content img {
+    margin-top: 7.5rem;
+    margin-right: 7.3rem;
+
+    width: 64%;
+  }
+
+  .content-one {
+    display: flex;
+    flex-direction: column;
+
+    margin-top: 5rem;
+    margin-right: 5.7rem;
+  }
+
+
+  .content-one h3 {
+    margin-left: 3rem;
+
+    font-size: 1.6rem;
+  }
+
+  .content-one h1 {
+    font-size: 4rem;
+  }
+
+  .content-one a {
+    max-width: 400px;
+    height: 65px;
+
+    border-radius: 20px;
+    font-size: 1.5rem;
+    font-weight: 400;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-left: 2rem;
+    padding: 0;
+  }
+
+  .section {
+    display: flex;
+    align-items: center;
+    flex-direction: column-reverse;
+  }
+
+  .section img {
+    width: 60%;
+    margin-right: 8rem;
+  }
+
+  .section-one {
+    margin-left: 3.2rem;
+  }
+
+  
+} 
+
+@media screen and (max-width: 659px) {
+  footer {
+    display: flex;
+    flex-direction: column;
+    
+  }
+
+  .box-footer {
+    margin-top: 1.8rem;
+  }
+
+  .box-footer h3,
+  .box-footer h1{
+    font-size: 2rem;
+  }
+
+  .box-footer p {
+    font-size: 1.3rem;
+  }
+
+}
+
+@media screen and (max-width: 516px) {
+
+
+  .content-one {
+    margin-left: 6rem;
+  }
+
+  .content-one h3 {
+    font-size: 1.3rem;
+  }
+
+  .content-one h1 {
+    font-size: 4rem;
+  }
+
+  .section-one {
+    display: flex;
+    flex-direction: column;
+
+    margin-left: 1rem;
+  }
+
+  .section-one input,
+  .section-one a {
+    width: 21.7rem;
+
+    margin-bottom: 2rem;
+    margin-left: 0;
+  }
+  
+}
+
+@media screen and (max-width: 465px) {
+  .content-one {
+    margin-left: 5rem;
+  }
+
+  .content-one h3 {
+    font-size: 1.2rem;
+  }
+
+  .content-one h1 {
+    font-size: 3.1rem;
+  }
+
+  .content-one a {
+    margin-right: 2rem;
+  }
+
+  .section ul {
+    margin-right: 6rem;
+  }
+
+  .section ul li {
+    font-size: 1.8rem;
+  }
+
+  .section img {
+    width: 90%;
+
+    margin-right: 8.6rem;
+    margin-bottom: 4rem;
+  }
+}
+
+@media screen and (max-width: 368px){
+  .content-one {
+    margin-left: 5rem;
+  }
+
+  .content-one h3 {
+    margin-left: 1rem;
+
+    font-size: 1.2rem;
+  }
+
+  .content-one h1 {
+    font-size: 2.9rem;
+  }
+
+  .section ul {
+    margin-right: 6.6rem;
+  }
+
+  .section ul li {
+    font-size: 1.4rem;
+  }
+
+  .section-one h2 {
+    font-size: 1.1rem;
+  }
+
+  .section-one input,
+  .section-one a {
+    width: 15.9rem;
+
+    margin-bottom: 1.8rem;
+    margin-left: 0;
+  }
+  
+}
+
+@media screen and (max-width: 345px) {
+  nav ul li a {
+    font-size: 1.2rem;
+  }
+
+  .content-one h3 {
+    margin-left: 1.5rem;
+
+    font-size: .9rem;
+  }
+
+  .content-one h1 {
+    font-size: 2.5rem;
+  }
+
+  .content-one a {
+    font-weight: 700;
+    font-size: 1rem;
+    padding: 1rem 2rem;
+
+  }
+}
+
